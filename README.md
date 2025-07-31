@@ -1,0 +1,1 @@
+I wanted to have some digital meter readings OCRed. Initially I tried using Python libraries like Tesseract, EasyOCR but didnt get accurate results. Since ChatGPT was reading them fine, I decided to use GenAI and results were stupendous! Code is given here and licensed under GPL. Please do attribute to me though.
